@@ -1,4 +1,4 @@
-# AUC Fundamentals of Data Science II (DSCI1412) Spring 2023
+# AUC DSCI1412 (Fundamentals of Data Science II)
 
 ![AUC Data Scientist](images/boussy.png)
 
